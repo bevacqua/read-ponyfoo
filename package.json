@@ -1,0 +1,25 @@
+{
+  "name": "read-ponyfoo",
+  "description": ":computer: Read Pony Foo articles at random from your terminal",
+  "version": "1.0.0",
+  "bin": {
+    "read-ponyfoo": "cli"
+  },
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "hget": "3.0.0",
+    "marked": "0.3.5",
+    "marked-terminal": "1.6.1",
+    "request": "2.69.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bevacqua/read-ponyfoo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bevacqua/read-ponyfoo/issues"
+  },
+  "homepage": "https://github.com/bevacqua/read-ponyfoo#readme"
+}
